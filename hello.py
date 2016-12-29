@@ -5,3 +5,4 @@ print("ああ漢字")
 #platformio-ide-terminal的に
 print("new branch")
 print("feature-B")
+print("second")
